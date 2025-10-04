@@ -8,6 +8,11 @@ This project uses the Clinical Microscopy Dataset introduced in:
 
 The dataset contains 300 microscopy images, with 3,562 annotated urinary cells. Each image has an associated segmentation mask where pixels are labeled into 7 clinically relevant cell classes.
 
+<div aling="center">
+  <img src="TableOfContent.png" width="53%">
+  <img src="Pie.png" width="45%">
+</div>
+
 ## Dataset Structure
 
 After download, the dataset is organized into three root folders, each having three folders with images:
