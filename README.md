@@ -36,7 +36,7 @@ CellSeg/
 
 ## Setup Requirements
 
-As a recommendation please check the [dataset summary](./dataset/) to better understand the project.
+As a recommendation please check the [dataset summary](./data/) to better understand the project.
 
 All model implementations were developed and trained in **Google Colab**.
 
