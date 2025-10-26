@@ -6,7 +6,7 @@
 - [Description](#description)
 - [Thesies](#thesies) 
 - [Project Structure](#project-structure)
-- [Setup and Requirements](#setup-and-requirements)
+- [Setup Requirements](#setup-requirements)
 - [Results](#results)
 - [Demonstrator](#demonstrator)
 - [Credits](#credits)
