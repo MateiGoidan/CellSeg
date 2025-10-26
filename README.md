@@ -36,6 +36,8 @@ CellSeg/
 
 ## Setup Requirements
 
+As a recommendation please check the [dataset summary](./dataset/) to better understand the project.
+
 All model implementations were developed and trained in **Google Colab**.
 
 To run any model:
@@ -110,8 +112,11 @@ This project was developed as part of my **Bachelor’s Thesis** at the **Facult
 The work builds upon these public research papers:
 
 > Kevin Liou, Aaron Rosenberg, Guneet Sandhu, Pooja Zaveri, Rachel Ostfeld, David Lansky, Manisha Narayan, Lauren G. McCoy, and Steven Horng. “A clinical microscopy dataset to develop a deep learning diagnostic test for urinary tract infection.” (2024);
+
 > Olaf Ronneberger, Philipp Fischer, and Thomas Brox. “U-Net: Convolutional Networks for Biomedical Image Segmentation.” (2015);
+
 > Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, and Hartwig Adam. “Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.” (2018);
+
 > François Chollet. “Xception: Deep Learning with Depthwise Separable Convolutions.” (2017);
 
 All rights and credits belong to the original authors.
