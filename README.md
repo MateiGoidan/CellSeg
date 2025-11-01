@@ -13,7 +13,7 @@
 
 ## Description
 
-This thesis aims to build upon the work presented in _A Clinical Microscopy Dataset to Develop a Deep Learning Diagnostic Test for Urinary Tract Infection (2024)_, by extending the segmentation task from binary to multiclass urinary cell segmentation. The study explores and compares convolutional neural network architectures with the goal of understanding their design principles, implementation differences and performances in a biomedical image context. Rather than focusing on the creation of a product, this thesis emphasizes the learning and thinking process involved in training, evaluating and analysing models for microscopy image segmentation. A lightweight web demonstrator is also developed as an addition component for visualization.
+This project aims to build upon the work presented in _A Clinical Microscopy Dataset to Develop a Deep Learning Diagnostic Test for Urinary Tract Infection (2024)_, by extending the segmentation task from binary to multiclass urinary cell segmentation. The study explores and compares convolutional neural network architectures with the goal of understanding their design principles, implementation differences and performances in a biomedical image context. A lightweight web demonstrator is also developed as an addition component for visualization.
 
 
 ## Thesies
